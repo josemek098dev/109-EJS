@@ -1,7 +1,0 @@
-build:
-  script:
-    - npm install
-
-deploy:
-  script:
-   - node app.js
