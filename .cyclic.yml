@@ -4,5 +4,4 @@ build:
 
 deploy:
   script:
-    - npm run build
-    - node app.js
+   - node app.js
